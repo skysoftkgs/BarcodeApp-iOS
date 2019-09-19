@@ -1,0 +1,6 @@
+framework module Pods_BarcodeAppUITests {
+  umbrella header "Pods-BarcodeAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
